@@ -207,22 +207,22 @@ Only **four policies generated revenue above 100M:**
 
 ## 🏠 Home Page
 
-![Home Page](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/Home%20Page.png?raw=true)
+![Home Page](https://github.com/NiteshPatilnp/Shield-Insurance-Analysis/blob/main/Shield_Insurance/Home.png)
 
 ---
 
 ## 📈 General View
 
-![General View](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/General%20View.png?raw=true)
+![General View](https://github.com/NiteshPatilnp/Shield-Insurance-Analysis/blob/main/Shield_Insurance/General_View.png)
 
 ---
 
 ## 💼 Sales Mode Analysis
 
-![Sales View](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/Sales%20View.png?raw=true)
+![Sales View](https://github.com/NiteshPatilnp/Shield-Insurance-Analysis/blob/main/Shield_Insurance/Sales_Mode_View.png)
 
 ---
 
 ## 👥 Age Group Analysis
 
-![Age Group Analysis](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/Age%20Group%20Analysis.png?raw=true)
+![Age Group Analysis](https://github.com/NiteshPatilnp/Shield-Insurance-Analysis/blob/main/Shield_Insurance/Age_Group_View.png)
