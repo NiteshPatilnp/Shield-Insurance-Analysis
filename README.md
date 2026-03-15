@@ -226,3 +226,9 @@ Only **four policies generated revenue above 100M:**
 ## 👥 Age Group Analysis
 
 ![Age Group Analysis](https://github.com/NiteshPatilnp/Shield-Insurance-Analysis/blob/main/Shield_Insurance/Age_Group_View.png)
+
+
+## 💬 Feedback  
+
+I’d love to hear your feedback and suggestions on this project!  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nitesh-patil-np/) to share your thoughts or ideas. 
